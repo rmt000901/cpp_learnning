@@ -1,0 +1,3 @@
+/home/kyland/Cpp_PrimerPlus/ch13/DMA/cmake-build-debug/CMakeFiles/DMA.dir
+/home/kyland/Cpp_PrimerPlus/ch13/DMA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kyland/Cpp_PrimerPlus/ch13/DMA/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+# ninja log v5
+0	304	1678455733127059540	CMakeFiles/Brass.dir/src/brass.cpp.o	bc0fdbf625742d24
+0	418	1678455733239057087	CMakeFiles/Brass.dir/usebrass.cpp.o	b8b01d0c3d18b8c2
+418	461	1678455733283056123	Brass	1cde7304c65a8d55
+0	160	1678633742822731627	CMakeFiles/Brass.dir/usebrass.cpp.o	b8b01d0c3d18b8c2
+1	171	1678633742834731266	CMakeFiles/Brass.dir/src/brass.cpp.o	bc0fdbf625742d24
+171	214	1678633742874730062	Brass	1cde7304c65a8d55

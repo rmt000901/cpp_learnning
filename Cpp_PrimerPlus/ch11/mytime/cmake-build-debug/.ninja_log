@@ -1,0 +1,13 @@
+# ninja log v5
+0	136	1677727842464512897	CMakeFiles/mytime.dir/usetime.cpp.o	92adaf8de85670ba
+1	136	1677727842464512897	CMakeFiles/mytime.dir/mytime.cpp.o	a7bea0e606750efa
+136	172	1677727842500512700	mytime	b6079915faad28da
+0	138	1677728381770140520	CMakeFiles/mytime.dir/usetime.cpp.o	92adaf8de85670ba
+0	138	1677728381770140520	CMakeFiles/mytime.dir/mytime.cpp.o	a7bea0e606750efa
+138	175	1677728381806140389	mytime	b6079915faad28da
+0	140	1677738475308542338	CMakeFiles/mytime.dir/usetime.cpp.o	92adaf8de85670ba
+1	141	1677738475312542284	CMakeFiles/mytime.dir/mytime.cpp.o	a7bea0e606750efa
+141	179	1677738475348541797	mytime	b6079915faad28da
+1	142	1677745049572199861	CMakeFiles/mytime.dir/usetime.cpp.o	92adaf8de85670ba
+1	146	1677745049576199833	CMakeFiles/mytime.dir/mytime.cpp.o	a7bea0e606750efa
+146	183	1677745049612199571	mytime	b6079915faad28da

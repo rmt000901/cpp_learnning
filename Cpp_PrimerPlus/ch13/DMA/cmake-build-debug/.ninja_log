@@ -1,0 +1,4 @@
+# ninja log v5
+0	152	1678704382757165509	CMakeFiles/DMA.dir/usedma.cpp.o	1dbc2b26540352fe
+0	155	1678704405049068783	CMakeFiles/DMA.dir/src/dma.cpp.o	4be33cce0d0e7b40
+155	191	1678704405085068626	DMA	9220dbaecf09b75a
