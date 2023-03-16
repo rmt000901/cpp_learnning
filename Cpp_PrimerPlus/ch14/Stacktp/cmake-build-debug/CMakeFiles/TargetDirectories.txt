@@ -1,0 +1,3 @@
+/home/kyland/Cpp_PrimerPlus/ch14/Stacktp/cmake-build-debug/CMakeFiles/Stacktp.dir
+/home/kyland/Cpp_PrimerPlus/ch14/Stacktp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kyland/Cpp_PrimerPlus/ch14/Stacktp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
