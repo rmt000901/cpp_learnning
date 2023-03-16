@@ -1,7 +1,0 @@
-# ninja log v5
-0	250	1678025060317806626	CMakeFiles/Stonewt.dir/stone.cpp.o	df3a1f0972ced74e
-0	250	1678025060317806626	CMakeFiles/Stonewt.dir/stonewt.cpp.o	f6eeb36b82870dac
-250	314	1678025060381806993	Stonewt	8509d1b2eb5f30a9
-0	169	1678065850823347792	CMakeFiles/Stonewt.dir/stone.cpp.o	df3a1f0972ced74e
-0	170	1678065850823347792	CMakeFiles/Stonewt.dir/stonewt.cpp.o	f6eeb36b82870dac
-170	210	1678065850863349185	Stonewt	8509d1b2eb5f30a9
