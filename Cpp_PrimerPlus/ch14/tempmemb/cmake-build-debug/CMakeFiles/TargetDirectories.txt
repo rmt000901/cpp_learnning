@@ -1,3 +1,0 @@
-/home/kyland/Cpp_PrimerPlus/ch14/tempmemb/cmake-build-debug/CMakeFiles/tempmemb.dir
-/home/kyland/Cpp_PrimerPlus/ch14/tempmemb/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/kyland/Cpp_PrimerPlus/ch14/tempmemb/cmake-build-debug/CMakeFiles/rebuild_cache.dir
